@@ -1,5 +1,5 @@
 ---
-title: Katherine Loh Paints
+title: Home
 layout: default
 ---
 
